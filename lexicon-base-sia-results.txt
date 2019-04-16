@@ -1,0 +1,38 @@
+C:\Users\yohan\Desktop>py -2 lexicon-base-sia.py
+C:\Python27\lib\site-packages\nltk\twitter\__init__.py:20: UserWarning: The twython library has not been installed. Some functionality from the twitter package will not be available.
+  warnings.warn("The twython library has not been installed. "
+1:  ITF protest  at HQ of #Macquariebank #CondorFerries attack on jobs and TU rights of Polish dockers. 1pm 08/02/16 28 Ropemaker St EC2Y 9HD.
+compound: -0.6249,  neg: 0.195,  neu: 0.805,  pos: 0.0,
+
+2:  Strange to see #MacquarieBank walk away from #roboadvice on death of inspiration behind it. Surely they would have eager juniors #fintech
+compound: 0.4767,  neg: 0.187,  neu: 0.525,  pos: 0.289,
+
+3:  Well done to Carol Bailey of @macquariebank, who scored gold in this year's women's 5km Run with a time of 23:56 minutes!
+compound: 0.3382,  neg: 0.0,  neu: 0.893,  pos: 0.107,
+
+4:  Today I worked with this team of leaders. Lots of robust discussion about strategies required for high performing teams. I know! I have the best job in the world. Thank you for having me #Macquarie #macquariebank #leaders #teams
+compound: 0.8553,  neg: 0.0,  neu: 0.773,  pos: 0.227,
+
+5:  People's naivety in investment situations like that of the Lewis' on #abc730 now is depressing but the behaviour of #Macquarie is nothing short of reckless and pernicious. Disgusting. #abc730 #macquariebank
+compound: -0.4143,  neg: 0.173,  neu: 0.702,  pos: 0.125,
+
+6:  Was an amazing day at the @YBRWealth 'Woman in Finance...' #event at #macquariebank with @markbouris @lindawcheart @EffieNicol and an amazing group of inspirational woman... raising funds @herheartcharity and she is @entourageoz alumni @JackDelosa #morelloltd
+compound: 0.8979,  neg: 0.0,  neu: 0.74,  pos: 0.26,
+
+7:  Cabs circling everywhere at Syd Airport but 45 min wait at cab rank. Has the evil #macquariebank #deathstar had a process failure?
+compound: -0.9109,  neg: 0.357,  neu: 0.643,  pos: 0.0,
+
+8:  Why does @ABCNews24 continue to provide free publicity to an organisation like #MacquarieBank?
+compound: 0.7003,  neg: 0.0,  neu: 0.655,  pos: 0.345,
+
+9:  Nothing like turning up to speak for a booking that only came through 17 hours ago! #macquariebank #preparingnowforwhatsnext #lastminute
+compound: 0.4199,  neg: 0.0,  neu: 0.859,  pos: 0.141,
+
+10:  Leadership discussion Wellbeing as a driver of sustainable high performance. Elizabeth Bradford #HSBC, Sean Carroll, ex #AustraliaPost, Stephen Lyons, #MacquarieBank #wbevent18 #Sydney at Doltone House
+compound: 0.0,  neg: 0.0,  neu: 1.0,  pos: 0.0,
+
+11:  I think it's the #MacquarieBank model: build public infrastructure using public funds that become corporate assets (ie. privatize roads, bridges, airports, etc), collect tolls&fees (ex. Sydney Airport & toll roads), pocket profits.Simple really. Transfer wealth to Bankers.
+compound: 0.6344,  neg: 0.0,  neu: 0.864,  pos: 0.136,
+
+
+C:\Users\yohan\Desktop>
